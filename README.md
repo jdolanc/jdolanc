@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdolanc&show_icons=true&theme=transparent)
+
+<img src="https://github-readme-stats.vercel.app/api?username=jdolanc&show_icons=true&theme=transparent" alt="GitHub Stats">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdolanc)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdolanc)](https://github.com/anuraghazra/github-readme-stats" alt="Programming Languages Used">
